@@ -1,0 +1,39 @@
+body{
+    background-color:#3f3c7c
+}
+#name{
+    display: block;
+    color:white;
+    padding-left: 350px;
+}
+p{
+    width: 100%;
+    color: #E2E7EA;
+    margin: 0 auto 0 auto 
+}
+div{
+    width:100%;
+}
+#hobby{
+    color:#E2E7EA;
+    padding-left: 350px;
+}
+#list{
+     display:block;
+     color: #E2E7EA;
+     padding-left: 350px;
+}
+#sunset{
+    display: block;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}
+#summary{
+    display: block;
+    width:900px;
+    margin: 0 auto 0 auto;
+    background-color:#6d68b6;
+    padding:20px;
+}
