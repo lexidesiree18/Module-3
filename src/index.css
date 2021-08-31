@@ -1,48 +1,65 @@
 body{
-    background-image: linear-gradient(#54548C, #D59fb1)
+    background-image: linear-gradient(#54548C, #D59fb1);
+    color:whitesmoke;
+    font-family: "Ubuntu";
 }
+
 #name{
     display: block;
     color:white;
-    padding-left: 350px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 195px;
 }
+
 p{
     width: 100%;
-    color:whitesmoke;
-    margin: 0 auto 0 auto 
+    margin: 0 auto 0 auto
 }
+
 div{
     width:100%;
 }
+
 #hobby{
-    color:whitesmoke;
-    padding-left: 350px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 172px;
 }
-#list{
-     display:block;
-     color: #E2E7EA;
-     padding-left: 350px;
+
+#list {
+    display: block;
+    color: #E2E7EA;
+    margin-left: auto;
+    margin-right: auto;
 }
+
 #sunset{
     display: block;
-    width: 500px;
+    width: 100%;
+    max-width: 560px;
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 20px;
 }
-#summary{
+
+.section {
     display: block;
-    width:900px;
+    width: 60vw;
     margin: 0 auto 0 auto;
-    background-color:#5C5C99;
     padding:20px;
-}
-.section{
     color: #353979;
     margin-bottom: 2%;
     background-color: #D59fb1
 }
-.sectionone{
+
+#summary{
+    background-color:#5C5C99;
+    color: whitesmoke;
+}
+
+#Edu-History {
     color: #8C3126;
-    background-color:#D59fb1
 }
