@@ -30,7 +30,8 @@ div{
     margin-right: auto;
     padding-bottom: 20px;
 }
-#summary{
+
+.section {
     display: block;
     width:900px;
     margin: 0 auto 0 auto;
@@ -42,7 +43,12 @@ div{
     margin-bottom: 2%;
     background-color: #D59fb1
 }
-.sectionone{
+
+#summary{
+    background-color:#5C5C99;
+    color: whitesmoke;
+}
+
     color: #8C3126;
     background-color:#D59fb1
 }
