@@ -4,8 +4,12 @@ body{
 #name{
     display: block;
     color:white;
-    padding-left: 350px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 195px;
 }
+
 p{
     width: 100%;
     color:whitesmoke;
@@ -14,15 +18,21 @@ p{
 div{
     width:100%;
 }
+
 #hobby{
-    color:whitesmoke;
-    padding-left: 350px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 172px;
 }
 #list{
-     display:block;
-     color: #E2E7EA;
-     padding-left: 350px;
+#list {
+    display: block;
+    color: #E2E7EA;
+    margin-left: auto;
+    margin-right: auto;
 }
+
 #sunset{
     display: block;
     width: 500px;
