@@ -1,5 +1,5 @@
 body{
-    background-image: linear-gradient(#3f3c7c, #f5a3a7)
+    background-image: linear-gradient(#54548C, #D59fb1)
 }
 #name{
     display: block;
@@ -34,15 +34,15 @@ div{
     display: block;
     width:900px;
     margin: 0 auto 0 auto;
-    background-color:#7b77b3;
+    background-color:#5C5C99;
     padding:20px;
 }
 .section{
-    color: #54548C;
+    color: #353979;
     margin-bottom: 2%;
-    background-color: #f5a9ad7a
+    background-color: #D59fb1
 }
 .sectionone{
-    color: #9b3c32;
-    background-color:#f5a9ad7a
+    color: #8C3126;
+    background-color:#D59fb1
 }
