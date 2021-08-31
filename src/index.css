@@ -1,6 +1,9 @@
 body{
-    background-image: linear-gradient(#54548C, #D59fb1)
+    background-image: linear-gradient(#54548C, #D59fb1);
+    color:whitesmoke;
+    font-family: "Ubuntu";
 }
+
 #name{
     display: block;
     color:white;
